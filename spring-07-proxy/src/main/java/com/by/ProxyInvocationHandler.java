@@ -4,7 +4,7 @@ import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 
 /**
- * 我们会用这个类自动生成代理类
+ * 我们会用这个类自动生成代理类1111111
  * @author wangby
  * @version 0.0.1
  * @date 2020-10-05 22:24
