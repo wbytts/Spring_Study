@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1db10e53-fda6-433b-885b-fa95498d5af0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Spring#applicationContext" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven_repo" />
+        <option name="mavenHome" value="D:\apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1iK5bNRqjU1ZSM6ukJg0qycJCLi" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-03-di/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.by.service" />
+      <recent name="" />
+      <recent name="com.by.pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\project\IDEA\spring-study\spring-03-di\src\main\resources" />
+      <recent name="F:\project\IDEA\spring-study\spring-01-ioc-what\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Client.test01 (1)">
+    <configuration default="true" type="lua.app" factoryName="Lua Application">
+      <option name="program" value="lua.exe" />
+      <option name="file" value="" />
+      <option name="workingDir" value="$PROJECT_DIR$/spring-01-ioc-what/src/main/java" />
+      <option name="debuggerType" value="1" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client.test01 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-07-proxy" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client.test02 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-07-proxy" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-07-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.by.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.by" />
+      <option name="MAIN_CLASS_NAME" value="com.by.Client" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-07-proxy" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-08-aop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Client.test01 (1)" />
+        <item itemvalue="JUnit.MyTest.test01" />
+        <item itemvalue="JUnit.Client.test03" />
+        <item itemvalue="JUnit.Client.test02 (1)" />
+        <item itemvalue="JUnit.Client.test02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="showFilesets" value="false" />
+    <option name="showFiles" value="false" />
+    <option name="showImplicitBeans" value="false" />
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1db10e53-fda6-433b-885b-fa95498d5af0" name="Default Changelist" comment="" />
+      <created>1601643514248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601643514248</updated>
+      <workItem from="1601643516476" duration="2552000" />
+      <workItem from="1601654796885" duration="123000" />
+      <workItem from="1601654976612" duration="1183000" />
+      <workItem from="1601656237420" duration="778000" />
+      <workItem from="1601658670952" duration="459000" />
+      <workItem from="1601659310344" duration="3772000" />
+      <workItem from="1601664764999" duration="614000" />
+      <workItem from="1601665447619" duration="642000" />
+      <workItem from="1601666173298" duration="3202000" />
+      <workItem from="1601687343776" duration="7022000" />
+      <workItem from="1601749265181" duration="111000" />
+      <workItem from="1601749497790" duration="1213000" />
+      <workItem from="1601750788106" duration="2654000" />
+      <workItem from="1601753482040" duration="2310000" />
+      <workItem from="1601756008100" duration="53000" />
+      <workItem from="1601850680149" duration="4224000" />
+      <workItem from="1601908611815" duration="7185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="343" y="58" width="1338" height="932" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1601754357695">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="343" y="58" width="1338" height="932" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1601754357695" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1601910494822">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1601910494822" />
+    <state x="721" y="392" width="478" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1601661337387">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="721" y="392" width="478" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050@0.0.1920.1050" timestamp="1601661337387" />
+    <state x="788" y="264" key="FileChooserDialogImpl" timestamp="1601665108382">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="788" y="264" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1601665108382" />
+    <state width="1877" height="195" key="GridCell.Tab.0.bottom" timestamp="1601942275471">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1601942275471" />
+    <state width="1877" height="195" key="GridCell.Tab.0.center" timestamp="1601942275470">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1601942275470" />
+    <state width="1877" height="195" key="GridCell.Tab.0.left" timestamp="1601942275434">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1601942275434" />
+    <state width="1877" height="195" key="GridCell.Tab.0.right" timestamp="1601942275471">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1601942275471" />
+    <state x="809" y="307" key="JpaSupport:com.ifengxue.plugin.gui.DatabaseSettingsDialog" timestamp="1601666212657">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="809" y="307" key="JpaSupport:com.ifengxue.plugin.gui.DatabaseSettingsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1601666212657" />
+    <state x="372" y="183" width="1436" height="711" key="SettingsEditor" timestamp="1601911188925">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="372" y="183" width="1436" height="711" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1601911188925" />
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601687246877">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1601687246877" />
+    <state x="731" y="352" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1601662280140">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="731" y="352" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1601662280140" />
+    <state x="332" y="134" key="new project wizard" timestamp="1601909112275">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="332" y="134" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1601909112275" />
+    <state x="601" y="251" width="700" height="530" key="recent.locations.popup" timestamp="1601655335058">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="601" y="251" width="700" height="530" key="recent.locations.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1601655335058" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1601913096669">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1601913096669" />
+    <state x="640" y="208" key="spring file set editor" timestamp="1601910611671">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="640" y="208" key="spring file set editor/0.0.1920.1050@0.0.1920.1050" timestamp="1601910611671" />
+  </component>
+</project>
