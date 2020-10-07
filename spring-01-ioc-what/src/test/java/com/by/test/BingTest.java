@@ -1,6 +1,5 @@
 package com.by.test;
 
-import com.by.dao.UserDaoMysqlImpl;
 import com.by.dao.UserDaoOracleImpl;
 import com.by.service.UserService;
 import com.by.service.UserServiceImpl;

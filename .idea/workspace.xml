@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1db10e53-fda6-433b-885b-fa95498d5af0" name="Default Changelist" comment="" />
+    <list default="true" id="1db10e53-fda6-433b-885b-fa95498d5af0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-09-mybatis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-01-ioc-what/src/test/java/com/by/test/BingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-01-ioc-what/src/test/java/com/by/test/BingTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +28,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -41,12 +50,17 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1iK5bNRqjU1ZSM6ukJg0qycJCLi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-03-di/src/main/resources" />
@@ -77,15 +91,13 @@
       <option name="showConsole" value="true" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -189,12 +201,16 @@
       <workItem from="1601753482040" duration="2310000" />
       <workItem from="1601756008100" duration="53000" />
       <workItem from="1601850680149" duration="4224000" />
-      <workItem from="1601908611815" duration="7292000" />
+      <workItem from="1601908611815" duration="8068000" />
+      <workItem from="1602034103731" duration="2842000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="343" y="58" width="1338" height="932" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1601754357695">
@@ -213,22 +229,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="788" y="264" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1601665108382" />
-    <state width="1877" height="195" key="GridCell.Tab.0.bottom" timestamp="1601942275471">
+    <state width="1877" height="195" key="GridCell.Tab.0.bottom" timestamp="1601944445135">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="195" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1601942275471" />
-    <state width="1877" height="195" key="GridCell.Tab.0.center" timestamp="1601942275470">
+    <state width="1877" height="195" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1601944445135" />
+    <state width="1877" height="195" key="GridCell.Tab.0.center" timestamp="1601944445135">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="195" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1601942275470" />
-    <state width="1877" height="195" key="GridCell.Tab.0.left" timestamp="1601942275434">
+    <state width="1877" height="195" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1601944445135" />
+    <state width="1877" height="195" key="GridCell.Tab.0.left" timestamp="1601944445135">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="195" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1601942275434" />
-    <state width="1877" height="195" key="GridCell.Tab.0.right" timestamp="1601942275471">
+    <state width="1877" height="195" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1601944445135" />
+    <state width="1877" height="195" key="GridCell.Tab.0.right" timestamp="1601944445135">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="195" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1601942275471" />
+    <state width="1877" height="195" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1601944445135" />
     <state x="809" y="307" key="JpaSupport:com.ifengxue.plugin.gui.DatabaseSettingsDialog" timestamp="1601666212657">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
