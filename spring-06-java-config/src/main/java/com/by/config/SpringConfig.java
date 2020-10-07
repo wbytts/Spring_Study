@@ -5,6 +5,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
+ * 使用注解的方式配置Spring
  * @author wangby
  * @version 0.0.1
  * @date 2020-10-04 3:41
