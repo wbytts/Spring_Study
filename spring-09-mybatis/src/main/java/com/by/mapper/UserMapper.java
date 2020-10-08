@@ -1,6 +1,7 @@
 package com.by.mapper;
 
 import com.by.pojo.User;
+import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;
 

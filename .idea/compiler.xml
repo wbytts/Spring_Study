@@ -13,6 +13,7 @@
         <module name="spring-08-aop" />
         <module name="spring-04-autowired" />
         <module name="spring-07-proxy" />
+        <module name="spring-10-transaction" />
         <module name="spring-05-annotation" />
         <module name="spring-09-mybatis" />
       </profile>
@@ -27,6 +28,7 @@
       <module name="spring-07-proxy" target="1.8" />
       <module name="spring-08-aop" target="1.8" />
       <module name="spring-09-mybatis" target="1.8" />
+      <module name="spring-10-transaction" target="1.8" />
       <module name="spring-study" target="1.8" />
     </bytecodeTargetLevel>
   </component>

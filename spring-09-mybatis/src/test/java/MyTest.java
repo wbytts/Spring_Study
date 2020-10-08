@@ -1,10 +1,12 @@
 import com.by.mapper.UserMapper;
+import com.by.mapper.UserMapperImpl;
 import com.by.pojo.User;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 import org.junit.Test;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -27,4 +29,13 @@ public class MyTest {
         List<User> users = userMapper.selectUser();
         System.out.println(users);
     }
+
+    @Test
+    public void test02() {
+        ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
+        UserMapper userMapper = context.getBean("userMapper", UserMapper.class);
+        List<User> users = userMapper.selectUser();
+        System.out.println(users);
+    }
+
 }

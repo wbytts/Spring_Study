@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-07-proxy/spring-07-proxy.iml" filepath="$PROJECT_DIR$/spring-07-proxy/spring-07-proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-08-aop/spring-08-aop.iml" filepath="$PROJECT_DIR$/spring-08-aop/spring-08-aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-09-mybatis/spring-09-mybatis.iml" filepath="$PROJECT_DIR$/spring-09-mybatis/spring-09-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-10-transaction/spring-10-transaction.iml" filepath="$PROJECT_DIR$/spring-10-transaction/spring-10-transaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-study.iml" filepath="$PROJECT_DIR$/.idea/spring-study.iml" />
     </modules>
   </component>
