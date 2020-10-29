@@ -23,14 +23,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1db10e53-fda6-433b-885b-fa95498d5af0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring-09-mybatis/src/main/java/com/by/mapper/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-09-mybatis/src/main/java/com/by/mapper/UserMapperImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-10-transaction/spring-10-transaction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-10-transaction/src/main/java/com/by/mapper/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-10-transaction/src/main/java/com/by/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-10-transaction/src/main/java/com/by/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-10-transaction/src/main/java/com/by/mapper/UserMapperImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-10-transaction/src/main/java/com/by/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-10-transaction/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-10-transaction/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-10-transaction/src/test/java/MyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-09-mybatis/spring-09-mybatis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-09-mybatis/spring-09-mybatis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-09-mybatis/src/main/java/com/by/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-09-mybatis/src/main/java/com/by/mapper/UserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-09-mybatis/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-09-mybatis/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-09-mybatis/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-09-mybatis/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-09-mybatis/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-09-mybatis/src/test/java/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-04-autowired/spring-04-autowired.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-04-autowired/spring-04-autowired.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,19 +102,22 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-03-di/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HibernateDemo" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="spring.boot" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.by.pojo" />
       <recent name="com.by.service" />
       <recent name="" />
-      <recent name="com.by.pojo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\project\IDEA\spring-study\spring-10-transaction\src\main\java\com\by" />
+      <recent name="F:\project\IDEA\spring-study\spring-10-transaction\src\main\resources" />
       <recent name="F:\project\IDEA\spring-study\spring-03-di\src\main\resources" />
       <recent name="F:\project\IDEA\spring-study\spring-01-ioc-what\src\main\resources" />
     </key>
@@ -126,17 +132,6 @@
       <option name="charset" value="UTF-8" />
       <option name="showConsole" value="true" />
       <method v="2" />
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="Client.test01 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-07-proxy" />
@@ -232,7 +227,8 @@
       <workItem from="1601756008100" duration="53000" />
       <workItem from="1601850680149" duration="4224000" />
       <workItem from="1601908611815" duration="8068000" />
-      <workItem from="1602034103731" duration="9704000" />
+      <workItem from="1602034103731" duration="11778000" />
+      <workItem from="1602663000047" duration="1772000" />
     </task>
     <task id="LOCAL-00001" summary="添加了 spring整合mybatis的例子">
       <created>1602111069377</created>
@@ -262,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602114086748</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="新增 spring-10-transaction 模块">
+      <created>1602118048516</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602118048516</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,13 +281,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="添加了 spring整合mybatis的例子" />
     <MESSAGE value="mybatis整合，相关依赖添加" />
     <MESSAGE value="mybatis整合，添加maven静态资源过滤" />
-    <option name="LAST_COMMIT_MESSAGE" value="mybatis整合，添加maven静态资源过滤" />
+    <MESSAGE value="新增 spring-10-transaction 模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增 spring-10-transaction 模块" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602111753585">
@@ -303,34 +308,34 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="721" y="392" width="478" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050@0.0.1920.1050" timestamp="1601661337387" />
-    <state x="528" y="80" key="CommitChangelistDialog2" timestamp="1602114082451">
+    <state x="528" y="80" key="CommitChangelistDialog2" timestamp="1602118045982">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="528" y="80" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1602114082451" />
-    <state x="788" y="264" key="FileChooserDialogImpl" timestamp="1601665108382">
+    <state x="528" y="80" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1602118045982" />
+    <state x="896" y="292" key="FileChooserDialogImpl" timestamp="1602664789623">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="788" y="264" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1601665108382" />
+    <state x="896" y="292" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1602664789623" />
     <state x="736" y="391" key="Github.CreatePullRequestDialog" timestamp="1602111378125">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="736" y="391" key="Github.CreatePullRequestDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1602111378125" />
-    <state width="1877" height="231" key="GridCell.Tab.0.bottom" timestamp="1602116989607">
+    <state width="1877" height="231" key="GridCell.Tab.0.bottom" timestamp="1602197699260">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="231" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1602116989607" />
-    <state width="1877" height="231" key="GridCell.Tab.0.center" timestamp="1602116989607">
+    <state width="1877" height="231" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1602197699260" />
+    <state width="1877" height="231" key="GridCell.Tab.0.center" timestamp="1602197699259">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="231" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1602116989607" />
-    <state width="1877" height="231" key="GridCell.Tab.0.left" timestamp="1602116989607">
+    <state width="1877" height="231" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1602197699259" />
+    <state width="1877" height="231" key="GridCell.Tab.0.left" timestamp="1602197699259">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="231" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1602116989607" />
-    <state width="1877" height="231" key="GridCell.Tab.0.right" timestamp="1602116989607">
+    <state width="1877" height="231" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1602197699259" />
+    <state width="1877" height="231" key="GridCell.Tab.0.right" timestamp="1602197699259">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="231" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1602116989607" />
+    <state width="1877" height="231" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1602197699259" />
     <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1602111771544">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -343,10 +348,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="372" y="183" width="1436" height="711" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1602117256510" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1602114088356">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1602118050671">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1602114088356" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1602118050671" />
     <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601687246877">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -355,10 +360,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="731" y="352" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1601662280140" />
-    <state x="332" y="134" key="new project wizard" timestamp="1602110937572">
+    <state x="332" y="134" key="new project wizard" timestamp="1602118002805">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="332" y="134" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1602110937572" />
+    <state x="332" y="134" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1602118002805" />
     <state x="601" y="251" width="700" height="530" key="recent.locations.popup" timestamp="1601655335058">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -367,9 +372,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1602116819765" />
-    <state x="640" y="208" key="spring file set editor" timestamp="1602116757919">
+    <state x="640" y="208" key="spring file set editor" timestamp="1602663111493">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="640" y="208" key="spring file set editor/0.0.1920.1050@0.0.1920.1050" timestamp="1602116757918" />
+    <state x="640" y="208" key="spring file set editor/0.0.1920.1050@0.0.1920.1050" timestamp="1602663111493" />
   </component>
 </project>
