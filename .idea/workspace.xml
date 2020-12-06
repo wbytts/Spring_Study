@@ -22,14 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1db10e53-fda6-433b-885b-fa95498d5af0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring-05-annotation/src/main/java/com/by/config/MainConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-05-annotation/src/main/java/com/by/pojo/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+    <list default="true" id="1db10e53-fda6-433b-885b-fa95498d5af0" name="Default Changelist" comment="update 2020-12-07">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-05-annotation/src/main/java/com/by/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-05-annotation/src/main/java/com/by/pojo/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-05-annotation/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-05-annotation/src/test/java/MyTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +235,7 @@
       <workItem from="1601908611815" duration="8068000" />
       <workItem from="1602034103731" duration="11778000" />
       <workItem from="1602663000047" duration="1772000" />
-      <workItem from="1607278528392" duration="4922000" />
+      <workItem from="1607278528392" duration="5233000" />
     </task>
     <task id="LOCAL-00001" summary="添加了 spring整合mybatis的例子">
       <created>1602111069377</created>
@@ -277,7 +272,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602118048516</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update 2020-12-07">
+      <created>1607284268519</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607284268519</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update 2020-12-07">
+      <created>1607284401268</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607284401268</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,6 +310,7 @@
     <MESSAGE value="mybatis整合，相关依赖添加" />
     <MESSAGE value="mybatis整合，添加maven静态资源过滤" />
     <MESSAGE value="新增 spring-10-transaction 模块" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增 spring-10-transaction 模块" />
+    <MESSAGE value="update 2020-12-07" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 2020-12-07" />
   </component>
 </project>
