@@ -26,6 +26,7 @@ public class User {
     @Value("张三")
     private String name;
 
+
     @Override
     public String toString() {
         return "User{" +
